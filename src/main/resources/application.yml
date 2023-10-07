@@ -8,8 +8,8 @@ spring:
       server:
         git:
           default-label: main
-#         uri: "file:E:/Users/Michael/Documents/Desarrollo_IntelliJ IDEA/codearti/carpeta"
-          uri: "file:C:/Users/user/Documents/DesarrolloProgramacion/carpeta"
+          uri: "file:E:/Users/Michael/Documents/Desarrollo_IntelliJ IDEA/codearti/carpeta"
+#          uri: "file:C:/Users/user/Documents/DesarrolloProgramacion/carpeta"
 #         uri: https://github.com/repositorio.git
 #          uri: git@github.com:ealfriadez/carpeta.git
 #          username: 
